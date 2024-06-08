@@ -4,13 +4,19 @@
 
 <p id="description">Proyecto realizado con el framework de ruby on rails.</p>
 
----
-title: Ruby on Rails
-description: Una aplicación realizada con el framework de rails en el lenguaje ruby
-tags:
-  - ruby
-  - rails
----
+<table>
+  <tr>
+    <td>Ruby on Rails</td>
+    <td>Una aplicación realizada con el framework de Rails en el lenguaje Ruby</td>
+    <td>
+      <ul>
+        <li>ruby</li>
+        <li>rails</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
 
 # Ejemplo de Ruby on Rails
 
