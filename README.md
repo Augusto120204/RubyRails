@@ -9,20 +9,22 @@
     <td>Ruby on Rails</td>
     <td>Una aplicación realizada con el framework de Rails en el lenguaje Ruby</td>
     <td>
-      <ul>
-        <li>ruby</li>
-        <li>rails</li>
-      </ul>
+        <table>
+            <tr>
+            <td>Ruby</td>
+            <td>Rails</td>
+            </tr>
+        </table>
     </td>
   </tr>
 </table>
 
 
-# Ejemplo de Ruby on Rails
+<h2>Ejemplo de Ruby on Rails</h2>
 
-Una aplicacion simple de control de inventario realizado con ruby on rails.
+<p>Una aplicacion simple de control de inventario realizado con ruby on rails.</p>
 
-<h2>🛠️ Installation Steps:</h2>
+<h2>🛠️ Pasos de instalacion:</h2>
 
 <p>1. Crear la base de datos local</p>
 
