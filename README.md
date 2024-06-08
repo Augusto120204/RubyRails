@@ -2,8 +2,6 @@
 
 <p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/2560px-Ruby_On_Rails_Logo.svg.png" alt="project-image"></p>
 
-<p id="description">Proyecto realizado con el framework de ruby on rails.</p>
-
 <table>
   <tr>
     <td>Ruby on Rails</td>
