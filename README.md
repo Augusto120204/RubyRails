@@ -27,7 +27,7 @@
 <p>1. Instalar las gemas del proyecto</p>
 
 ```
-bundle Install
+bundle install
 ```
 
 <p>2. Crear la base de datos local</p>
