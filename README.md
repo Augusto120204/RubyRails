@@ -24,6 +24,12 @@
 
 <h2>🛠️ Pasos de instalacion:</h2>
 
+<p>1. Instalar las gemas del proyecto</p>
+
+```
+bundle Install
+```
+
 <p>1. Crear la base de datos local</p>
 
 ```
