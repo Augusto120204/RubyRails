@@ -42,17 +42,26 @@ rails db:create
 rails db:migrate
 ```
 
-<p>4. Ejecutar las Pruebas Unitarias</p>
+<p>4. Ejecutar el servidor</p>
+
+```
+rails server
+```
+
+<h2>🔧 Correr las pruebas unitarias</h2>
+
+<p>1. Ejecutar las migraciones de la base de datos en el entorno TEST</p>
+
+```
+rails db:migrate RAILS_ENV=test
+```
+
+<p>2. Ejecutar las Pruebas Unitarias desde una ventana de comandos en modo de administrador</p>
 
 ```
 rails test
 ```
 
-<p>5. Ejecutar el servidor</p>
-
-```
-rails server
-```
 
 <h2>🚀 Ver el programa</h2>
 
