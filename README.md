@@ -41,6 +41,11 @@ rails db:migrate
 ```
 rails server
 ```
+<p>3. Ejecutar las Pruebas Unitarias</p>
+
+```
+rails test
+```
 
 <h2>🚀 Ver el programa</h2>
 
