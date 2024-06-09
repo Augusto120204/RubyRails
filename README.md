@@ -30,27 +30,28 @@
 bundle Install
 ```
 
-<p>1. Crear la base de datos local</p>
+<p>2. Crear la base de datos local</p>
 
 ```
 rails db:create
 ```
 
-<p>2. Ejecutar las migraciones pendientes en la base de datos</p>
+<p>3. Ejecutar las migraciones pendientes en la base de datos</p>
 
 ```
 rails db:migrate
 ```
 
-<p>3. Ejecutar el servidor</p>
-
-```
-rails server
-```
-<p>3. Ejecutar las Pruebas Unitarias</p>
+<p>4. Ejecutar las Pruebas Unitarias</p>
 
 ```
 rails test
+```
+
+<p>5. Ejecutar el servidor</p>
+
+```
+rails server
 ```
 
 <h2>🚀 Ver el programa</h2>
